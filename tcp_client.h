@@ -1,0 +1,6 @@
+#ifndef APTEL_PRACTICA_GLOBAL_TCP_CLIENT_H
+#define APTEL_PRACTICA_GLOBAL_TCP_CLIENT_H
+
+void runTCPClient(char s[], unsigned int p);
+
+#endif //APTEL_PRACTICA_GLOBAL_TCP_CLIENT_H
